@@ -1,0 +1,4 @@
+---
+# Install Elasticsearch
+- include: elasticsearch_deb.yml tags=elasticsearch
+  when: ansible_distribution in [ 'Debian', 'Ubuntu' ]
