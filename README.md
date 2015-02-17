@@ -1,4 +1,4 @@
-Ansible Elastisearch Role
+Ansible Elasticsearch Role
 =========================
 
 This role installs and configures Elasticsearch from official deb repository.
