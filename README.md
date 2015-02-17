@@ -1,5 +1,5 @@
-Ansible Fluentd Role
-====================
+Ansible Elastisearch Role
+=========================
 
 This role installs and configures Elasticsearch from official deb repository.
 
