@@ -3,8 +3,8 @@
 elasticsearch_version: 1.4
 
 elasticsearch_plugins: []
-  - name: karmi/elasticsearch-paramedic
-    # check_file: '/usr/share/elasticsearch/plugins/paramedic/_site/index.html'
+  # - name: karmi/elasticsearch-paramedic
+  #   check_file: '/usr/share/elasticsearch/plugins/paramedic/_site/index.html'
 
 elasticsearch_config: {}
   ##################### Elasticsearch Configuration Example #####################
