@@ -28,7 +28,8 @@ Examples
         http.host: 127.0.0.1
         http.publish_host: 127.0.0.1
       elasticsearch_plugins:
-      	- karmi/elasticsearch-paramedic
+      	- name: karmi/elasticsearch-paramedic
+      	  check_file: '/usr/share/elasticsearch/plugins/paramedic/_site/index.html'
 
 ```
 
